@@ -1,0 +1,2067 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>zen</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260504190045PS0QRD</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>202605041900459NVDXO</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>Actualizamos cuentos tradicionales</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_subtitle</key>
+    <value>Cuentos</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Inmaculada Garrido Tébar</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>Este proyecto tiene por objetivo crear un cuento sobre la base de un cuento tradicional, basándose en las problemáticas que afectan a la juventud y/o a la sociedad actual. </value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>zen</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1777909193321</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-mord7dpo-43d0jy2al</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>ACTUALIZAMOS CUENTOS TRADICIONALES</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>ACTUALIZAMOS CUENTOS TRADICIONALES</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Datos identificativos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>ACTUALIZAMOS CUENTOS TRADICIONALES</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mord7dpo-43d0jy2al</odePageId>
+      <odeBlockId>block-1777740962746-zpths4mbk</odeBlockId>
+      <blockName>ACTUALIZAMOS CUENTOS TRADICIONALES</blockName>
+      <iconName>diary</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mord7dpo-43d0jy2al</odePageId>
+          <odeBlockId>block-1777740962746-zpths4mbk</odeBlockId>
+          <odeIdeviceId>idevice-1777740962743-fxdbrv75m</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <ul>
+<li>Título: <strong>ACTUALIZAMOS CUENTOS TRADICIONALES</strong></li>
+<li>Etapa: <strong>Educación Primaria</strong></li>
+<li>Ciclo: Tercer ciclo</li>
+<li>Áreas: Lengua castellana y literatura</li>
+<li>Vinculación con otras áreas:  Valores éticos y cívicos y Educación artística<br /></li>
+</ul>
+<figure class="exe-figure position-center" style="width: 1045px; text-align: center;"><img src="{{context_path}}/content/resources/Diseño sin título (7).png" title="Cuentos" width="1045" height="862" alt="Cuentos" />
+<figcaption class="figcaption"><span class="title"><em>Imagen de Canva</em></span> <span class="license"><span class="sep">(</span><span class="custom-license">Dominio público</span><span class="sep">)</span></span></figcaption>
+</figure>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777740962743-fxdbrv75m","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<ul>\n<li>Título: <strong>ACTUALIZAMOS CUENTOS TRADICIONALES</strong></li>\n<li>Etapa: <strong>Educación Primaria</strong></li>\n<li>Ciclo: Tercer ciclo</li>\n<li>Áreas: Lengua castellana y literatura</li>\n<li>Vinculación con otras áreas:  Valores éticos y cívicos y Educación artística<br /></li>\n</ul>\n<figure class=\"exe-figure position-center\" style=\"width: 1045px; text-align: center;\"><img src=\"{{context_path}}/content/resources/Diseño sin título (7).png\" title=\"Cuentos\" width=\"1045\" height=\"862\" alt=\"Cuentos\" />\n<figcaption class=\"figcaption\"><span class=\"title\"><em>Imagen de Canva</em></span> <span class=\"license\"><span class=\"sep\">(</span><span class=\"custom-license\">Dominio público</span><span class=\"sep\">)</span></span></figcaption>\n</figure>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mord7dps-qr99tcwg2</odePageId>
+  <odeParentPageId>page-mord7dpo-43d0jy2al</odeParentPageId>
+  <pageName>Descripción y justificación</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Descripción y justificación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Descripción y justificación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mord7dps-qr99tcwg2</odePageId>
+      <odeBlockId>block-1777741704105-j774meyuq</odeBlockId>
+      <blockName>Descripción y justificación</blockName>
+      <iconName>book</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mord7dps-qr99tcwg2</odePageId>
+          <odeBlockId>block-1777741704105-j774meyuq</odeBlockId>
+          <odeIdeviceId>idevice-1777741704104-jtuxx79j7</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;">Esta situación de aprendizaje persigue introducir al alumnado en la creacción de cuentos actuales, teniendo como base los cuentos tradicionales, adaptándolos a los valores y problemáticas presentes en la sociedad, incidiendo en temas que afectan a la juventud: problemas derivados de las redes sociales (como exposición excesiva, importancia de la apariencia física, el ciberbullying y demás acosos en este ámbito); la defensa de los derechos de la mujer; el bullying; etc., así como otros más generales: el medio ambiente, la contaminación ambiental, …  </p>
+<p style="text-align: justify;">Durante el proceso, el alumnado aprenderá la estructura del cuento clásico, pondrá a prueba sus dotes lingüísticas y literarias, así como su creatividad en la elaboración de textos y el posterior diseño de la interfaz del mismo, haciendo uso para ello de la herramienta digital Canva, con la posibilidad de emplear la IA en sus creaciones.</p>
+<p style="text-align: justify;">La creación de cuentos en niños potencia su imaginación, su creatividad y favorece el lenguaje, ayudando asimismo a gestionar emociones y promoviendo una reflexión y un trabajo profundo en valores. En lo que se refiere al lenguaje, permite desarrollar sus habilidades lingüísticas, ampliando tanto sus expresiones y estructuras gramaticales como el vocabulario. Por otra parte, permite estructurar sus pensamientos y emociones mientras se produce una mejora de la escritura y expresión escrita.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777741704104-jtuxx79j7","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\">Esta situación de aprendizaje persigue introducir al alumnado en la creacción de cuentos actuales, teniendo como base los cuentos tradicionales, adaptándolos a los valores y problemáticas presentes en la sociedad, incidiendo en temas que afectan a la juventud: problemas derivados de las redes sociales (como exposición excesiva, importancia de la apariencia física, el ciberbullying y demás acosos en este ámbito); la defensa de los derechos de la mujer; el bullying; etc., así como otros más generales: el medio ambiente, la contaminación ambiental, …  </p>\n<p style=\"text-align: justify;\">Durante el proceso, el alumnado aprenderá la estructura del cuento clásico, pondrá a prueba sus dotes lingüísticas y literarias, así como su creatividad en la elaboración de textos y el posterior diseño de la interfaz del mismo, haciendo uso para ello de la herramienta digital Canva, con la posibilidad de emplear la IA en sus creaciones.</p>\n<p style=\"text-align: justify;\">La creación de cuentos en niños potencia su imaginación, su creatividad y favorece el lenguaje, ayudando asimismo a gestionar emociones y promoviendo una reflexión y un trabajo profundo en valores. En lo que se refiere al lenguaje, permite desarrollar sus habilidades lingüísticas, ampliando tanto sus expresiones y estructuras gramaticales como el vocabulario. Por otra parte, permite estructurar sus pensamientos y emociones mientras se produce una mejora de la escritura y expresión escrita.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mord7dpt-d1np2dv2x</odePageId>
+  <odeParentPageId>page-mord7dpo-43d0jy2al</odeParentPageId>
+  <pageName>Temporalización</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Temporalización</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Temporalización</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mord7dpt-d1np2dv2x</odePageId>
+      <odeBlockId>block-1777742816108-c2qhcxqid</odeBlockId>
+      <blockName>Temporalización</blockName>
+      <iconName>chrono</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mord7dpt-d1np2dv2x</odePageId>
+          <odeBlockId>block-1777742816108-c2qhcxqid</odeBlockId>
+          <odeIdeviceId>idevice-1777742816105-boj8us6hr</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;">La situación de aprendizaje está diseñada para 6 sesiones, pudiéndose complementar con alguna sesión adicional en caso de considerarse necesaria.</p>
+<figure class="exe-figure position-center" style="width: 1280px;"><img src="{{context_path}}/content/resources/digipd-clock-1606919.jpg" title="Reloj, manos y tiempo" width="1280" height="853" alt="Reloj, manos y tiempo" />
+<figcaption class="figcaption"><a href="https://pixabay.com/es/photos/reloj-las-manos-tiempo-triste-1606919/" class="author" target="_blank" rel="noopener">DigiPD</a>. <a href="https://pixabay.com/es/photos/reloj-las-manos-tiempo-triste-1606919/" class="title" target="_blank" rel="noopener"><em>Reloj, manos y tiempo</em></a> <span class="license"><span class="sep">(</span><span class="custom-license">De uso gratuito bajo la Licencia de contenido de Pixabay</span><span class="sep">)</span></span></figcaption>
+</figure>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777742816105-boj8us6hr","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\">La situación de aprendizaje está diseñada para 6 sesiones, pudiéndose complementar con alguna sesión adicional en caso de considerarse necesaria.</p>\n<figure class=\"exe-figure position-center\" style=\"width: 1280px;\"><img src=\"{{context_path}}/content/resources/digipd-clock-1606919.jpg\" title=\"Reloj, manos y tiempo\" width=\"1280\" height=\"853\" alt=\"Reloj, manos y tiempo\" />\n<figcaption class=\"figcaption\"><a href=\"https://pixabay.com/es/photos/reloj-las-manos-tiempo-triste-1606919/\" class=\"author\" target=\"_blank\" rel=\"noopener\">DigiPD</a>. <a href=\"https://pixabay.com/es/photos/reloj-las-manos-tiempo-triste-1606919/\" class=\"title\" target=\"_blank\" rel=\"noopener\"><em>Reloj, manos y tiempo</em></a> <span class=\"license\"><span class=\"sep\">(</span><span class=\"custom-license\">De uso gratuito bajo la Licencia de contenido de Pixabay</span><span class=\"sep\">)</span></span></figcaption>\n</figure>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mord7dpt-xy5t5opb5</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Línea temporal</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Línea temporal</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Línea temporal</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mord7dpt-xy5t5opb5</odePageId>
+      <odeBlockId>block-1777743981457-dvb3jpqew</odeBlockId>
+      <blockName>Línea temporal</blockName>
+      <iconName>chrono</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mord7dpt-xy5t5opb5</odePageId>
+          <odeBlockId>block-1777743981457-dvb3jpqew</odeBlockId>
+          <odeIdeviceId>idevice-1777743981453-sol13kwoe</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;">La situación de aprendizaje consta de 6 sesiones, que se distribuyen según la siguiente <a href="https://canva.link/9aq78svx8pv57if" target="_blank" rel="noopener" title="">línea temporal</a>. Esta temporalización es una previsión del tiempo estipulado para implementar la situación de aprendizaje, pudiendo no obstante aumentar o reducir las sesiones en caso de que se considere oportuno:</p>
+<p>Sesión 1: ¿Qué preocupa a los jóvenes?</p>
+<p>Sesión 2: ¿Qué sabes de los cuentos? </p>
+<p>Sesión 3-4: Escribiendo cuentos</p>
+<p>Sesión 5-6: Diseñando cuentos</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777743981453-sol13kwoe","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\">La situación de aprendizaje consta de 6 sesiones, que se distribuyen según la siguiente <a href=\"https://canva.link/9aq78svx8pv57if\" target=\"_blank\" rel=\"noopener\" title=\"\">línea temporal</a>. Esta temporalización es una previsión del tiempo estipulado para implementar la situación de aprendizaje, pudiendo no obstante aumentar o reducir las sesiones en caso de que se considere oportuno:</p>\n<p>Sesión 1: ¿Qué preocupa a los jóvenes?</p>\n<p>Sesión 2: ¿Qué sabes de los cuentos? </p>\n<p>Sesión 3-4: Escribiendo cuentos</p>\n<p>Sesión 5-6: Diseñando cuentos</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mord7dpu-czovi6x2v</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Secuenciación didáctica</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Secuenciación didáctica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Secuenciación didáctica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mord7dpu-czovi6x2v</odePageId>
+      <odeBlockId>block-1777803379024-eqid3acm9</odeBlockId>
+      <blockName>Secuenciación didáctica</blockName>
+      <iconName>roadmap</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mord7dpu-czovi6x2v</odePageId>
+          <odeBlockId>block-1777803379024-eqid3acm9</odeBlockId>
+          <odeIdeviceId>idevice-1777803379023-u0d4ejbt6</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En este apartado, nos centraremos en el desarrollo de las diferentes tareas que se proponen en la situación de aprendizaje.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777803379023-u0d4ejbt6","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En este apartado, nos centraremos en el desarrollo de las diferentes tareas que se proponen en la situación de aprendizaje.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mord7dpv-cmtb0y0za</odePageId>
+  <odeParentPageId>page-mord7dpu-czovi6x2v</odeParentPageId>
+  <pageName>1. ¿Qué preocupa a los jóvenes?</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1. ¿Qué preocupa a los jóvenes?</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sesión 1: Motivación y activación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>1. ¿Qué preocupa a los jóvenes?</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mord7dpv-cmtb0y0za</odePageId>
+      <odeBlockId>block-1777801481804-znq58bb9h</odeBlockId>
+      <blockName>1. ¿Qué preocupa a los jóvenes?</blockName>
+      <iconName>technology</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mord7dpv-cmtb0y0za</odePageId>
+          <odeBlockId>block-1777801481804-znq58bb9h</odeBlockId>
+          <odeIdeviceId>idevice-1777801481802-ybgaqwg0b</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;">En esta sesión, os proponemos dos tareas que tienen la finalidad de encontrar los temas que más preocupan a la juventud de hoy.</p>
+<p style="text-align: center;">¿Nos acompañáis?</p>
+<figure class="exe-figure position-center" style="width: 1280px;"><img src="{{context_path}}/content/resources/foundry-woman-863686_1920.jpg" width="1280" height="853" alt="Preocupada" />
+<figcaption class="figcaption"><a href="https://pixabay.com/es/photos/mujer-disgustado-triste-deprimido-863686/" class="author" target="_blank" rel="noopener">Foundry</a>. <a href="https://pixabay.com/es/photos/mujer-disgustado-triste-deprimido-863686/" class="title" target="_blank" rel="noopener"><em>Imagen de</em></a> <span class="license"><span class="sep">(</span><span class="custom-license">De uso gratuito bajo la Licencia de contenido de Pixabay</span><span class="sep">)</span></span></figcaption>
+</figure>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777801481802-ybgaqwg0b","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\">En esta sesión, os proponemos dos tareas que tienen la finalidad de encontrar los temas que más preocupan a la juventud de hoy.</p>\n<p style=\"text-align: center;\">¿Nos acompañáis?</p>\n<figure class=\"exe-figure position-center\" style=\"width: 1280px;\"><img src=\"{{context_path}}/content/resources/foundry-woman-863686_1920.jpg\" width=\"1280\" height=\"853\" alt=\"Preocupada\" />\n<figcaption class=\"figcaption\"><a href=\"https://pixabay.com/es/photos/mujer-disgustado-triste-deprimido-863686/\" class=\"author\" target=\"_blank\" rel=\"noopener\">Foundry</a>. <a href=\"https://pixabay.com/es/photos/mujer-disgustado-triste-deprimido-863686/\" class=\"title\" target=\"_blank\" rel=\"noopener\"><em>Imagen de</em></a> <span class=\"license\"><span class=\"sep\">(</span><span class=\"custom-license\">De uso gratuito bajo la Licencia de contenido de Pixabay</span><span class=\"sep\">)</span></span></figcaption>\n</figure>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mord7dpv-jsxv5vvjg</odePageId>
+  <odeParentPageId>page-mord7dpv-cmtb0y0za</odeParentPageId>
+  <pageName>Tarea 1: Lluvia de ideas</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Tarea 1: Lluvia de ideas</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Tarea 1: Lluvia de ideas</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mord7dpv-jsxv5vvjg</odePageId>
+      <odeBlockId>block-1777745381127-2vsc5mwwr</odeBlockId>
+      <blockName>Tarea 1: Lluvia de ideas</blockName>
+      <iconName>interactive</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mord7dpv-jsxv5vvjg</odePageId>
+          <odeBlockId>block-1777745381127-2vsc5mwwr</odeBlockId>
+          <odeIdeviceId>idevice-1777745381126-5u702j25h</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="exe-text-activity"><dl><div class="inline"><dt><span title="Duración">Duración</span></dt><dd>15 min</dd></div><div class="inline"><dt><span title="Agrupamiento">Agrupamiento</span></dt><dd>Gran grupo</dd></div></dl><p style="text-align: justify;">"¿Qué nos preocupa hoy?" y "¿Qué problemas o inquietudes tenéis los jóvenes?" son preguntas que nos deben dar respuestas sobre los temas que es importante abordar hoy en día. Para dar respuesta a esta preguntas, se propone una <strong>lluvia de ideas</strong>, haciendo uso para ello de la herramienta digital <a href="https://www.mentimeter.com/es-ES" target="_blank" rel="noopener" title="">Mentimeter</a>. Nos dará información sobre los temas que más os preocupan.</p>
+<figure class="exe-figure position-center" style="width: 1280px;"><img src="{{context_path}}/content/resources/stux-post-it-4129907.jpg" title="Post it" width="1280" height="853" alt="Post it" />
+<figcaption class="figcaption"><a href="https://pixabay.com/es/photos/post-it-lluvia-de-ideas-4129907/" class="author" target="_blank" rel="noopener">Imagen de</a>. <a href="https://pixabay.com/es/photos/post-it-lluvia-de-ideas-4129907/" class="title" target="_blank" rel="noopener"><em>Imagen Post it</em></a> <span class="license"><span class="sep">(</span><span class="custom-license">De uso gratuito bajo la Licencia de contenido de Pixabay</span><span class="sep">)</span></span></figcaption>
+</figure></div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777745381126-5u702j25h","textInfoDurationInput":"15 min","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"Gran grupo","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div class=\"exe-text-activity\"><dl><div class=\"inline\"><dt><span title=\"Duración\">Duración</span></dt><dd>15 min</dd></div><div class=\"inline\"><dt><span title=\"Agrupamiento\">Agrupamiento</span></dt><dd>Gran grupo</dd></div></dl><p style=\"text-align: justify;\">\"¿Qué nos preocupa hoy?\" y \"¿Qué problemas o inquietudes tenéis los jóvenes?\" son preguntas que nos deben dar respuestas sobre los temas que es importante abordar hoy en día. Para dar respuesta a esta preguntas, se propone una <strong>lluvia de ideas</strong>, haciendo uso para ello de la herramienta digital <a href=\"https://www.mentimeter.com/es-ES\" target=\"_blank\" rel=\"noopener\" title=\"\">Mentimeter</a>. Nos dará información sobre los temas que más os preocupan.</p>\n<figure class=\"exe-figure position-center\" style=\"width: 1280px;\"><img src=\"{{context_path}}/content/resources/stux-post-it-4129907.jpg\" title=\"Post it\" width=\"1280\" height=\"853\" alt=\"Post it\" />\n<figcaption class=\"figcaption\"><a href=\"https://pixabay.com/es/photos/post-it-lluvia-de-ideas-4129907/\" class=\"author\" target=\"_blank\" rel=\"noopener\">Imagen de</a>. <a href=\"https://pixabay.com/es/photos/post-it-lluvia-de-ideas-4129907/\" class=\"title\" target=\"_blank\" rel=\"noopener\"><em>Imagen Post it</em></a> <span class=\"license\"><span class=\"sep\">(</span><span class=\"custom-license\">De uso gratuito bajo la Licencia de contenido de Pixabay</span><span class=\"sep\">)</span></span></figcaption>\n</figure></div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mord7dpw-i15o5t3k2</odePageId>
+  <odeParentPageId>page-mord7dpv-cmtb0y0za</odeParentPageId>
+  <pageName>Tarea 2: Visualizamos y debatimos</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Tarea 2: Visualizamos y debatimos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Tarea 2: Visualización vídeos y debate</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Tarea 2: Visualizamos y debatimos</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mord7dpw-i15o5t3k2</odePageId>
+      <odeBlockId>block-1777746289163-6ukjkymnp</odeBlockId>
+      <blockName>Tarea 2: Visualizamos y debatimos</blockName>
+      <iconName>letters</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mord7dpw-i15o5t3k2</odePageId>
+          <odeBlockId>block-1777746289163-6ukjkymnp</odeBlockId>
+          <odeIdeviceId>idevice-1777746289162-d2vc07nhn</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="exe-text-activity"><dl><div class="inline"><dt><span title="Duración">Duración</span></dt><dd>35-40 min</dd></div><div class="inline"><dt><span title="Agrupamiento">Agrupamiento</span></dt><dd>Gran grupo</dd></div></dl><p style="text-align: justify;">Una vez detectadas las problemáticas e inquietudes que más afectan a los jóvenes, vamos a realizar una <strong>visualización de vídeos</strong> en los que se exponen algunos de estos temas. Para ello, accederemos a los vídeos incluídos en Padlet:</p>
+<ul>
+<li><a href="https://padlet.com/igarteb478/padlet-proyecto-cuentos-eyrd77m40niifjh4/slideshow/wish/3885274854" title="Retos virales" target="_blank" rel="noopener">Vídeo Retos virales</a></li>
+<li title="Vídeo Acoso escolar o bullying"><a href="https://padlet.com/igarteb478/padlet-proyecto-cuentos-eyrd77m40niifjh4/slideshow/wish/3885276053" title="Vídeo Acoso escolar o bullying" target="_blank" rel="noopener">Vídeo Acoso escolar o bullying</a></li>
+<li title="Violencia de género"><a href="https://padlet.com/igarteb478/padlet-proyecto-cuentos-eyrd77m40niifjh4/slideshow/wish/3885281227" title="Violencia de género" target="_blank" rel="noopener">Vídeo violencia de género</a></li>
+<li title="Ciberodio"><a href="https://padlet.com/igarteb478/padlet-proyecto-cuentos-eyrd77m40niifjh4/slideshow/wish/3885286691" title="Ciberodio" target="_blank" rel="noopener">Vídeo Ciberodio</a></li>
+</ul>
+<p style="text-align: justify;">Tras la visualización de los vídeos, <strong>vamos a debatir</strong> con el fin de que podáis tomar conciencia de estos temas, déis vuestra opinión al respecto y podáis plantear posibles soluciones. </p>
+<p style="text-align: justify;">Algunas de las preguntas que nos podríamos plantear pueden ser las siguientes:</p>
+<ul>
+<li>¿Qué pensáis sobre cada vídeo?</li>
+<li>¿Creéis que son temas que afectan a los jóvenes de hoy?</li>
+<li>¿Cuál es el que más te preocupa?</li>
+<li>¿Alguno de estos problemas lo podríamos adaptar a un cuento?</li>
+</ul>
+<p style="text-align: justify;">A continuación, cada grupo debatirá para <strong>elegir el tema</strong> que podría tratar en su <strong>cuento</strong>.</p></div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777746289162-d2vc07nhn","textInfoDurationInput":"35-40 min","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"Gran grupo","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div class=\"exe-text-activity\"><dl><div class=\"inline\"><dt><span title=\"Duración\">Duración</span></dt><dd>35-40 min</dd></div><div class=\"inline\"><dt><span title=\"Agrupamiento\">Agrupamiento</span></dt><dd>Gran grupo</dd></div></dl><p style=\"text-align: justify;\">Una vez detectadas las problemáticas e inquietudes que más afectan a los jóvenes, vamos a realizar una <strong>visualización de vídeos</strong> en los que se exponen algunos de estos temas. Para ello, accederemos a los vídeos incluídos en Padlet:</p>\n<ul>\n<li><a href=\"https://padlet.com/igarteb478/padlet-proyecto-cuentos-eyrd77m40niifjh4/slideshow/wish/3885274854\" title=\"Retos virales\" target=\"_blank\" rel=\"noopener\">Vídeo Retos virales</a></li>\n<li title=\"Vídeo Acoso escolar o bullying\"><a href=\"https://padlet.com/igarteb478/padlet-proyecto-cuentos-eyrd77m40niifjh4/slideshow/wish/3885276053\" title=\"Vídeo Acoso escolar o bullying\" target=\"_blank\" rel=\"noopener\">Vídeo Acoso escolar o bullying</a></li>\n<li title=\"Violencia de género\"><a href=\"https://padlet.com/igarteb478/padlet-proyecto-cuentos-eyrd77m40niifjh4/slideshow/wish/3885281227\" title=\"Violencia de género\" target=\"_blank\" rel=\"noopener\">Vídeo violencia de género</a></li>\n<li title=\"Ciberodio\"><a href=\"https://padlet.com/igarteb478/padlet-proyecto-cuentos-eyrd77m40niifjh4/slideshow/wish/3885286691\" title=\"Ciberodio\" target=\"_blank\" rel=\"noopener\">Vídeo Ciberodio</a></li>\n</ul>\n<p style=\"text-align: justify;\">Tras la visualización de los vídeos, <strong>vamos a debatir</strong> con el fin de que podáis tomar conciencia de estos temas, déis vuestra opinión al respecto y podáis plantear posibles soluciones. </p>\n<p style=\"text-align: justify;\">Algunas de las preguntas que nos podríamos plantear pueden ser las siguientes:</p>\n<ul>\n<li>¿Qué pensáis sobre cada vídeo?</li>\n<li>¿Creéis que son temas que afectan a los jóvenes de hoy?</li>\n<li>¿Cuál es el que más te preocupa?</li>\n<li>¿Alguno de estos problemas lo podríamos adaptar a un cuento?</li>\n</ul>\n<p style=\"text-align: justify;\">A continuación, cada grupo debatirá para <strong>elegir el tema</strong> que podría tratar en su <strong>cuento</strong>.</p></div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mord7dpw-knly13p7q</odePageId>
+  <odeParentPageId>page-mord7dpu-czovi6x2v</odeParentPageId>
+  <pageName>2. ¿Qué sabes de los cuentos?</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2. ¿Qué sabes de los cuentos?</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sesión 2: Activación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>2. ¿Qué sabes de los cuentos?</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mord7dpw-knly13p7q</odePageId>
+      <odeBlockId>block-1777748289201-vdc43c11l</odeBlockId>
+      <blockName>2. ¿Qué sabes de los cuentos?</blockName>
+      <iconName>diary</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mord7dpw-knly13p7q</odePageId>
+          <odeBlockId>block-1777748289201-vdc43c11l</odeBlockId>
+          <odeIdeviceId>idevice-1777748289200-bvbtqzg8i</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;">Esta sesión está destinada a que aprendáis <strong>las características y la estructura del cuento</strong>, así como las <strong>pautas que hay que seguir para escribir un cuento</strong>.</p>
+<p style="text-align: justify;">A continuación, procederéis a la <strong>lectura de cuentos tradicionales</strong> para, finalmente, <strong>elegir el cuento</strong> sobre el que trabajaréis.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777748289200-bvbtqzg8i","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\">Esta sesión está destinada a que aprendáis <strong>las características y la estructura del cuento</strong>, así como las <strong>pautas que hay que seguir para escribir un cuento</strong>.</p>\n<p style=\"text-align: justify;\">A continuación, procederéis a la <strong>lectura de cuentos tradicionales</strong> para, finalmente, <strong>elegir el cuento</strong> sobre el que trabajaréis.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mord7dpx-saxdf8ezg</odePageId>
+  <odeParentPageId>page-mord7dpw-knly13p7q</odeParentPageId>
+  <pageName>Tarea 3: Aprendemos sobre el cuento</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Tarea 3: Aprendemos sobre el cuento</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Tarea 3: Aprendemos sobre el cuento</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mord7dpx-saxdf8ezg</odePageId>
+      <odeBlockId>block-1777756540998-84vzonqhb</odeBlockId>
+      <blockName>Aprendemos sobre el cuento</blockName>
+      <iconName>book</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mord7dpx-saxdf8ezg</odePageId>
+          <odeBlockId>block-1777756540998-84vzonqhb</odeBlockId>
+          <odeIdeviceId>idevice-1777756540997-ueqz7qu7e</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="exe-text-activity"><dl><div class="inline"><dt><span title="Duración">Duración</span></dt><dd>30 minutos</dd></div><div class="inline"><dt><span title="Agrupamiento">Agrupamiento</span></dt><dd>Gran grupo</dd></div></dl><p style="text-align: justify;">En esta sesión, vamos a aprender <strong>las características de un cuento</strong> y <strong>las partes</strong> de las que consta, así como unas pautas para elaborar un cuento.</p>
+<p>Para ello, se visualizarán los siguientes vídeos:</p>
+<ul>
+<li title="El cuento y sus partes"><a href="https://padlet.com/igarteb478/padlet-proyecto-cuentos-eyrd77m40niifjh4/slideshow/wish/3894400330" title="El cuento y sus partes" target="_blank" rel="noopener">El cuento y sus partes</a></li>
+<li title="Cómo escribir un cuento"><a href="https://padlet.com/igarteb478/padlet-proyecto-cuentos-eyrd77m40niifjh4/slideshow/wish/3894400889" title="Cómo escribir un cuento" target="_blank" rel="noopener">Cómo escribir un cuento</a></li>
+</ul>
+<p>A modo de resumen, pueden acceder al siguiente <strong><a href="https://canva.link/u086abhsemt5ne6" target="_blank" rel="noopener" title="">documento</a></strong>.</p>
+<figure class="exe-figure position-center" style="width: 1280px;"><img src="{{context_path}}/content/resources/El cuento y su estructura.jpg" width="1280" height="720" alt="" />
+<figcaption class="figcaption"><span class="title"><em>Imagen de Canva</em></span> <span class="license"><span class="sep">(</span><span class="custom-license">Dominio público</span><span class="sep">)</span></span></figcaption>
+</figure></div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777756540997-ueqz7qu7e","textInfoDurationInput":"30 minutos","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"Gran grupo","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div class=\"exe-text-activity\"><dl><div class=\"inline\"><dt><span title=\"Duración\">Duración</span></dt><dd>30 minutos</dd></div><div class=\"inline\"><dt><span title=\"Agrupamiento\">Agrupamiento</span></dt><dd>Gran grupo</dd></div></dl><p style=\"text-align: justify;\">En esta sesión, vamos a aprender <strong>las características de un cuento</strong> y <strong>las partes</strong> de las que consta, así como unas pautas para elaborar un cuento.</p>\n<p>Para ello, se visualizarán los siguientes vídeos:</p>\n<ul>\n<li title=\"El cuento y sus partes\"><a href=\"https://padlet.com/igarteb478/padlet-proyecto-cuentos-eyrd77m40niifjh4/slideshow/wish/3894400330\" title=\"El cuento y sus partes\" target=\"_blank\" rel=\"noopener\">El cuento y sus partes</a></li>\n<li title=\"Cómo escribir un cuento\"><a href=\"https://padlet.com/igarteb478/padlet-proyecto-cuentos-eyrd77m40niifjh4/slideshow/wish/3894400889\" title=\"Cómo escribir un cuento\" target=\"_blank\" rel=\"noopener\">Cómo escribir un cuento</a></li>\n</ul>\n<p>A modo de resumen, pueden acceder al siguiente <strong><a href=\"https://canva.link/u086abhsemt5ne6\" target=\"_blank\" rel=\"noopener\" title=\"\">documento</a></strong>.</p>\n<figure class=\"exe-figure position-center\" style=\"width: 1280px;\"><img src=\"{{context_path}}/content/resources/El cuento y su estructura.jpg\" width=\"1280\" height=\"720\" alt=\"\" />\n<figcaption class=\"figcaption\"><span class=\"title\"><em>Imagen de Canva</em></span> <span class=\"license\"><span class=\"sep\">(</span><span class=\"custom-license\">Dominio público</span><span class=\"sep\">)</span></span></figcaption>\n</figure></div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mord7dpx-qemcuebdc</odePageId>
+  <odeParentPageId>page-mord7dpw-knly13p7q</odeParentPageId>
+  <pageName>Tarea 4: Elegimos cuento</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Tarea 4: Elegimos cuento</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Tarea 4: Elegimos cuento</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Tarea 4: Elegimos cuento</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mord7dpx-qemcuebdc</odePageId>
+      <odeBlockId>block-1777757661361-qxmmr18ny</odeBlockId>
+      <blockName>Elegimos cuento</blockName>
+      <iconName>observe</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mord7dpx-qemcuebdc</odePageId>
+          <odeBlockId>block-1777757661361-qxmmr18ny</odeBlockId>
+          <odeIdeviceId>idevice-1777757661360-qf9twi368</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="exe-text-activity"><dl><div class="inline"><dt><span title="Duración">Duración</span></dt><dd>30 minutos</dd></div><div class="inline"><dt><span title="Agrupamiento">Agrupamiento</span></dt><dd>Grupos cooperativos</dd></div></dl><p style="text-align: justify;">Esta tarea tiene como objetivo que leáis <strong>diferentes cuentos clásicos</strong> para posteriormente debatir, en pequeños grupos, el cuento tradicional sobre el que crearéis vuestro nuevo cuento. </p>
+<p style="text-align: justify;">Pueden acceder a cuentos tradicionales en este <a href="https://padlet.com/igarteb478/padlet-proyecto-cuentos-eyrd77m40niifjh4/slideshow/wish/3885272291" title="" target="_blank" rel="noopener">enlace</a> o en este otro <a href="https://padlet.com/igarteb478/padlet-proyecto-cuentos-eyrd77m40niifjh4/slideshow/wish/3885272916" target="_blank" rel="noopener">enlace</a>, o bien realizar una búsqueda en internet.</p>
+<p style="text-align: justify;">Una vez realizada la selección de cuentos entre los diferentes integrantes de cada grupo, debatirán sobre el cuento que prefieren y las posibles ideas para realizar su nuevo cuento.</p></div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777757661360-qf9twi368","textInfoDurationInput":"30 minutos","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"Grupos cooperativos","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div class=\"exe-text-activity\"><dl><div class=\"inline\"><dt><span title=\"Duración\">Duración</span></dt><dd>30 minutos</dd></div><div class=\"inline\"><dt><span title=\"Agrupamiento\">Agrupamiento</span></dt><dd>Grupos cooperativos</dd></div></dl><p style=\"text-align: justify;\">Esta tarea tiene como objetivo que leáis <strong>diferentes cuentos clásicos</strong> para posteriormente debatir, en pequeños grupos, el cuento tradicional sobre el que crearéis vuestro nuevo cuento. </p>\n<p style=\"text-align: justify;\">Pueden acceder a cuentos tradicionales en este <a href=\"https://padlet.com/igarteb478/padlet-proyecto-cuentos-eyrd77m40niifjh4/slideshow/wish/3885272291\" title=\"\" target=\"_blank\" rel=\"noopener\">enlace</a> o en este otro <a href=\"https://padlet.com/igarteb478/padlet-proyecto-cuentos-eyrd77m40niifjh4/slideshow/wish/3885272916\" target=\"_blank\" rel=\"noopener\">enlace</a>, o bien realizar una búsqueda en internet.</p>\n<p style=\"text-align: justify;\">Una vez realizada la selección de cuentos entre los diferentes integrantes de cada grupo, debatirán sobre el cuento que prefieren y las posibles ideas para realizar su nuevo cuento.</p></div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mord7dpy-6r62w5tr8</odePageId>
+  <odeParentPageId>page-mord7dpu-czovi6x2v</odeParentPageId>
+  <pageName>3. Escribiendo cuentos</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3. Escribiendo cuentos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sesiones 3 y 4</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>3. Escribiendo cuentos</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mord7dpy-6r62w5tr8</odePageId>
+      <odeBlockId>block-1777798334528-plrlzaws8</odeBlockId>
+      <blockName>3. Escribiendo cuentos</blockName>
+      <iconName>draw</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mord7dpy-6r62w5tr8</odePageId>
+          <odeBlockId>block-1777798334528-plrlzaws8</odeBlockId>
+          <odeIdeviceId>idevice-1777798334526-s9hri97qe</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;">La tarea 5 ocupará las siguientes dos sesiones y consiste en la elaboración del cuento, para lo que hay que activar las habilidades lingüísticas y añadirle una buena dosis de imaginación y creatividad.</p>
+<p style="text-align: center;">¡Vamos a ello!</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777798334526-s9hri97qe","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\">La tarea 5 ocupará las siguientes dos sesiones y consiste en la elaboración del cuento, para lo que hay que activar las habilidades lingüísticas y añadirle una buena dosis de imaginación y creatividad.</p>\n<p style=\"text-align: center;\">¡Vamos a ello!</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mord7dpy-jdrn3sbth</odePageId>
+  <odeParentPageId>page-mord7dpy-6r62w5tr8</odeParentPageId>
+  <pageName>Tarea 5: Escribiendo el cuento</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Tarea 5: Escribiendo el cuento</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Tarea 5: Escribiendo el cuento</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Tarea 5: Escribiendo el cuento</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mord7dpy-jdrn3sbth</odePageId>
+      <odeBlockId>block-1777795510453-v0bmajzgi</odeBlockId>
+      <blockName>Tarea 5: Escribiendo el cuento</blockName>
+      <iconName>draw</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mord7dpy-jdrn3sbth</odePageId>
+          <odeBlockId>block-1777795510453-v0bmajzgi</odeBlockId>
+          <odeIdeviceId>idevice-1777795510451-tklszjjh0</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="exe-text-activity"><dl><div class="inline"><dt><span title="Duración">Duración</span></dt><dd>120 minutos</dd></div><div class="inline"><dt><span title="Agrupamiento">Agrupamiento</span></dt><dd>Grupo cooperativo</dd></div></dl><figure class="exe-figure position-center" style="width: 1080px;"><img src="{{context_path}}/content/resources/32dfd8fb-9f37-541a-127b-28c4410d807d.png" title="Niña escribiendo" width="1080" height="606" alt="Niña escribiendo" />
+<figcaption class="figcaption"><span class="title"><em>Imagen de Canva</em></span> <span class="license"><span class="sep">(</span><span class="custom-license">Dominio público</span><span class="sep">)</span></span></figcaption>
+</figure>
+<p style="text-align: center;">Érase una vez ... ¡nuestro cuento!</p>
+<p style="text-align: justify;">Esta tarea tiene por objetivo <strong>escribir vuestro cuento</strong>, que se llevará a cabo en un documento colaborativo. Para ello, un integrante del grupo abrirá un documento en <em>Google docs</em>, que compartirá con el resto del grupo.</p>
+<p style="text-align: justify;">Es importante tener en cuenta la <em>rúbrica de evaluación</em>, que encontraréis en el siguiente <a href="https://drive.google.com/file/d/19Sw_aOygX0EkRtov7pQQ2ZczL0C2sG1L/view?usp=sharing" title="Rúbrica tarea 5" target="_blank" rel="noopener">enlace</a>. </p>
+<p style="text-align: justify;">Podéis acceder al <em>documento resumen</em> de Cómo escribir un cuento en este <a href="https://canva.link/u086abhsemt5ne6" title="Documento cuentos" target="_blank" rel="noopener">enlace</a>.</p>
+<p style="text-align: center;">¡Manos a la obra!</p></div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777795510451-tklszjjh0","textInfoDurationInput":"120 minutos","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"Grupo cooperativo","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div class=\"exe-text-activity\"><dl><div class=\"inline\"><dt><span title=\"Duración\">Duración</span></dt><dd>120 minutos</dd></div><div class=\"inline\"><dt><span title=\"Agrupamiento\">Agrupamiento</span></dt><dd>Grupo cooperativo</dd></div></dl><figure class=\"exe-figure position-center\" style=\"width: 1080px;\"><img src=\"{{context_path}}/content/resources/32dfd8fb-9f37-541a-127b-28c4410d807d.png\" title=\"Niña escribiendo\" width=\"1080\" height=\"606\" alt=\"Niña escribiendo\" />\n<figcaption class=\"figcaption\"><span class=\"title\"><em>Imagen de Canva</em></span> <span class=\"license\"><span class=\"sep\">(</span><span class=\"custom-license\">Dominio público</span><span class=\"sep\">)</span></span></figcaption>\n</figure>\n<p style=\"text-align: center;\">Érase una vez ... ¡nuestro cuento!</p>\n<p style=\"text-align: justify;\">Esta tarea tiene por objetivo <strong>escribir vuestro cuento</strong>, que se llevará a cabo en un documento colaborativo. Para ello, un integrante del grupo abrirá un documento en <em>Google docs</em>, que compartirá con el resto del grupo.</p>\n<p style=\"text-align: justify;\">Es importante tener en cuenta la <em>rúbrica de evaluación</em>, que encontraréis en el siguiente <a href=\"https://drive.google.com/file/d/19Sw_aOygX0EkRtov7pQQ2ZczL0C2sG1L/view?usp=sharing\" title=\"Rúbrica tarea 5\" target=\"_blank\" rel=\"noopener\">enlace</a>. </p>\n<p style=\"text-align: justify;\">Podéis acceder al <em>documento resumen</em> de Cómo escribir un cuento en este <a href=\"https://canva.link/u086abhsemt5ne6\" title=\"Documento cuentos\" target=\"_blank\" rel=\"noopener\">enlace</a>.</p>\n<p style=\"text-align: center;\">¡Manos a la obra!</p></div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mord7dq0-vzk05nznr</odePageId>
+  <odeParentPageId>page-mord7dpu-czovi6x2v</odeParentPageId>
+  <pageName>4. Diseñando cuentos</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4. Diseñando cuentos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sesiones 5 y 6</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>4. Diseñando cuentos</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mord7dq0-vzk05nznr</odePageId>
+      <odeBlockId>block-1777798260076-lol5tp399</odeBlockId>
+      <blockName>4. Diseñando cuentos</blockName>
+      <iconName>present</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mord7dq0-vzk05nznr</odePageId>
+          <odeBlockId>block-1777798260076-lol5tp399</odeBlockId>
+          <odeIdeviceId>idevice-1777798260074-n78lkcq6u</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Durante dos sesiones, se realizará la tarea 6, que consiste en elaborar la interfaz del cuento, utilizando para ello la herramienta Canva.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777798260074-n78lkcq6u","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Durante dos sesiones, se realizará la tarea 6, que consiste en elaborar la interfaz del cuento, utilizando para ello la herramienta Canva.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mord7dq1-bfjejvqly</odePageId>
+  <odeParentPageId>page-mord7dq0-vzk05nznr</odeParentPageId>
+  <pageName>Tarea 6: Diseñamos nuestro cuento en Canva</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Tarea 6: Diseñamos nuestro cuento en Canva</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Tarea 6</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Tarea 6: Diseñamos nuestro cuento en Canva</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mord7dq1-bfjejvqly</odePageId>
+      <odeBlockId>block-1777797025008-0q5f95z0b</odeBlockId>
+      <blockName>Tarea 6: Diseñamos nuestro cuento</blockName>
+      <iconName>present</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mord7dq1-bfjejvqly</odePageId>
+          <odeBlockId>block-1777797025008-0q5f95z0b</odeBlockId>
+          <odeIdeviceId>idevice-1777797025005-vxfono8e0</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;">En esta tarea 6, que tendrá una duración de 2 sesiones, cada grupo tiene que planificar y <strong>diseñar la interfaz</strong> o decoración <strong>del cuento</strong>, que se realizará en un documento compartido, preferiblemente una presentación digital, en la aplicación <strong>Canva</strong>. Como sabéis, Canva ofrece muchas posibilidades, entre ellas el uso de la IA que tiene integrada.</p>
+<p>A continuación encontraréis varios enlaces de tutoriales:</p>
+<ul>
+<li><a href="https://padlet.com/igarteb478/padlet-proyecto-cuentos-eyrd77m40niifjh4/slideshow/wish/3885269636" title="Tutorial Canva" target="_blank" rel="noopener">Tutorial de Canva</a></li>
+<li title="Tutorial Canva"><a href="https://padlet.com/igarteb478/padlet-proyecto-cuentos-eyrd77m40niifjh4/slideshow/wish/3885269985" title="Tutorial Canva" target="_blank" rel="noopener">Tutorial 15 trucos de Canva</a></li>
+<li title="Tutorial"><a href="https://padlet.com/igarteb478/padlet-proyecto-cuentos-eyrd77m40niifjh4/slideshow/wish/3885270784" title="Tutorial" target="_blank" rel="noopener">Tutorial Trucos IA para Canva</a></li>
+</ul>
+<p style="text-align: justify;">Para elaborar la interfaz, utilizaréis un documento compartido. Para ello, un integrante del grupo abrirá la plantilla elegida por el grupo y la compartirá con el resto de compañeros/as.</p>
+<p style="text-align: justify;">En el siguiente <a href="https://drive.google.com/file/d/1SUet7hhjD6QNasV75cjx6neWS0dLkg-x/view?usp=sharing" title="Rúbrica tarea 6" target="_blank" rel="noopener">enlace</a> podéis acceder a la rúbrica de evaluación de la tarea. Es aconsejable tenerla siempre presente a la hora de realizar esta tarea.</p>
+<p style="text-align: justify;">Conforme vayáis diseñando las páginas del cuento, podéis ir insertando los textos que habéis elaborado en la tarea anterior.</p>
+<figure class="exe-figure position-center" style="width: 1280px;"><img src="{{context_path}}/content/resources/counselling-frog-prince-1370022.jpg" title="Príncipe, corona y flor" width="1280" height="853" alt="Príncipe, corona y flor" />
+<figcaption class="figcaption"><a href="https://pixabay.com/es/photos/pr%c3%adncipe-rana-corona-flor-so%c3%b1ador-1370022/" class="author" target="_blank" rel="noopener">Counselling</a>. <a href="https://pixabay.com/es/photos/pr%c3%adncipe-rana-corona-flor-so%c3%b1ador-1370022/" class="title" target="_blank" rel="noopener"><em>Príncipe, corona y flor</em></a> <span class="license"><span class="sep">(</span><span class="custom-license">De uso gratuito bajo la Licencia de contenido de Pixabay</span><span class="sep">)</span></span></figcaption>
+</figure>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777797025005-vxfono8e0","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\">En esta tarea 6, que tendrá una duración de 2 sesiones, cada grupo tiene que planificar y <strong>diseñar la interfaz</strong> o decoración <strong>del cuento</strong>, que se realizará en un documento compartido, preferiblemente una presentación digital, en la aplicación <strong>Canva</strong>. Como sabéis, Canva ofrece muchas posibilidades, entre ellas el uso de la IA que tiene integrada.</p>\n<p>A continuación encontraréis varios enlaces de tutoriales:</p>\n<ul>\n<li><a href=\"https://padlet.com/igarteb478/padlet-proyecto-cuentos-eyrd77m40niifjh4/slideshow/wish/3885269636\" title=\"Tutorial Canva\" target=\"_blank\" rel=\"noopener\">Tutorial de Canva</a></li>\n<li title=\"Tutorial Canva\"><a href=\"https://padlet.com/igarteb478/padlet-proyecto-cuentos-eyrd77m40niifjh4/slideshow/wish/3885269985\" title=\"Tutorial Canva\" target=\"_blank\" rel=\"noopener\">Tutorial 15 trucos de Canva</a></li>\n<li title=\"Tutorial\"><a href=\"https://padlet.com/igarteb478/padlet-proyecto-cuentos-eyrd77m40niifjh4/slideshow/wish/3885270784\" title=\"Tutorial\" target=\"_blank\" rel=\"noopener\">Tutorial Trucos IA para Canva</a></li>\n</ul>\n<p style=\"text-align: justify;\">Para elaborar la interfaz, utilizaréis un documento compartido. Para ello, un integrante del grupo abrirá la plantilla elegida por el grupo y la compartirá con el resto de compañeros/as.</p>\n<p style=\"text-align: justify;\">En el siguiente <a href=\"https://drive.google.com/file/d/1SUet7hhjD6QNasV75cjx6neWS0dLkg-x/view?usp=sharing\" title=\"Rúbrica tarea 6\" target=\"_blank\" rel=\"noopener\">enlace</a> podéis acceder a la rúbrica de evaluación de la tarea. Es aconsejable tenerla siempre presente a la hora de realizar esta tarea.</p>\n<p style=\"text-align: justify;\">Conforme vayáis diseñando las páginas del cuento, podéis ir insertando los textos que habéis elaborado en la tarea anterior.</p>\n<figure class=\"exe-figure position-center\" style=\"width: 1280px;\"><img src=\"{{context_path}}/content/resources/counselling-frog-prince-1370022.jpg\" title=\"Príncipe, corona y flor\" width=\"1280\" height=\"853\" alt=\"Príncipe, corona y flor\" />\n<figcaption class=\"figcaption\"><a href=\"https://pixabay.com/es/photos/pr%c3%adncipe-rana-corona-flor-so%c3%b1ador-1370022/\" class=\"author\" target=\"_blank\" rel=\"noopener\">Counselling</a>. <a href=\"https://pixabay.com/es/photos/pr%c3%adncipe-rana-corona-flor-so%c3%b1ador-1370022/\" class=\"title\" target=\"_blank\" rel=\"noopener\"><em>Príncipe, corona y flor</em></a> <span class=\"license\"><span class=\"sep\">(</span><span class=\"custom-license\">De uso gratuito bajo la Licencia de contenido de Pixabay</span><span class=\"sep\">)</span></span></figcaption>\n</figure>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mord7dq2-p9siplz90</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Evaluación de los aprendizajes</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Evaluación de los aprendizajes</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Evaluación de los aprendizajes</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mord7dq2-p9siplz90</odePageId>
+      <odeBlockId>block-1777804012453-gj9e0d9vw</odeBlockId>
+      <blockName>Evaluación de los aprendizajes</blockName>
+      <iconName>activity</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mord7dq2-p9siplz90</odePageId>
+          <odeBlockId>block-1777804012453-gj9e0d9vw</odeBlockId>
+          <odeIdeviceId>idevice-1777804012452-2vsja427e</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="exe-fx exe-accordion">
+<h2 style="text-align: justify;">Evaluación tarea 1 y 2</h2>
+<h6 style="text-align: justify;"><span style="font-size: 12pt;">La evaluación de las tareas 1 y 2 del proyecto se realizará con la técnica de observación directa, utilizando el debate tanto docente-alumnado, como el debate por pares. Con la siguiente escala de estimación, se detectará tanto si el alumnado es consciente de las problemáticas de la juventud de hoy en día, como la selección de la que tratarán en su cuento. </span></h6>
+<h6><br /></h6>
+<p><img src="{{context_path}}/content/resources/Escala de estimación.jpg" width="1068" height="681" alt="" /></p>
+<h2>Evaluación tarea 5<br /></h2>
+<p style="text-align: justify;">La evaluación de la tarea 5, la producción de los textos del cuento, se llevará a cabo en dos fases:</p>
+<ul>
+<li style="text-align: justify;">En la primera fase (desarrollo del producto), al final de la primera sesión y al final de la segunda, se realizará una coevaluación (un feedback por parte del resto de compañeros). El grupo mostrará en la pantalla digital y leerá sus textos, y algunos de sus compañeros/as, así como el docente realizarán una crítica constructiva, señalando las posibles mejoras que pueden realizarse en sus producciones. Esta técnica, que utilizo habitualmente en mis clases, ayuda al alumnado a mejorar sus tareas durante el desarrollo de sus producciones. Se trata asimismo de un momento en el que el docente puede obtener datos sobre la evolución de la tarea en los diferentes grupos y que facilita al grupo posibles mejoras que puede incorporar o los puntos fuertes de su trabajo.</li>
+<li style="text-align: justify;">La evaluación del producto de la tarea 5, se llevará a cabo utilizando la siguiente rúbrica, que el alumnado conocerá antes de comenzar a realizar su tarea y que les indicará los ítems que serán evaluados en la tarea.</li>
+</ul>
+<p><img src="{{context_path}}/content/resources/Rúbrica tarea 5.jpg" width="854" height="817" alt="" /></p>
+<h2>Evaluación tarea 6</h2>
+<p style="text-align: justify;">La evaluación de la tarea 6, se llevará a cabo de forma similar a la expuesta en la tarea 5:</p>
+<ul>
+<li style="text-align: justify;">Coevaluación y evaluación oral (feedback de compañeros/as y docente) durante su desarrollo.</li>
+<li style="text-align: justify;">Rúbrica para evaluar el producto (instrumento que el alumnado conocerá al inicio de la tarea).</li>
+</ul>
+<p><img src="{{context_path}}/content/resources/rúbrica tarea 6.jpg" width="1142" height="566" alt="" /></p>
+</div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777804012452-2vsja427e","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div class=\"exe-fx exe-accordion\">\n<h2 style=\"text-align: justify;\">Evaluación tarea 1 y 2</h2>\n<h6 style=\"text-align: justify;\"><span style=\"font-size: 12pt;\">La evaluación de las tareas 1 y 2 del proyecto se realizará con la técnica de observación directa, utilizando el debate tanto docente-alumnado, como el debate por pares. Con la siguiente escala de estimación, se detectará tanto si el alumnado es consciente de las problemáticas de la juventud de hoy en día, como la selección de la que tratarán en su cuento. </span></h6>\n<h6><br /></h6>\n<p><img src=\"{{context_path}}/content/resources/Escala de estimación.jpg\" width=\"1068\" height=\"681\" alt=\"\" /></p>\n<h2>Evaluación tarea 5<br /></h2>\n<p style=\"text-align: justify;\">La evaluación de la tarea 5, la producción de los textos del cuento, se llevará a cabo en dos fases:</p>\n<ul>\n<li style=\"text-align: justify;\">En la primera fase (desarrollo del producto), al final de la primera sesión y al final de la segunda, se realizará una coevaluación (un feedback por parte del resto de compañeros). El grupo mostrará en la pantalla digital y leerá sus textos, y algunos de sus compañeros/as, así como el docente realizarán una crítica constructiva, señalando las posibles mejoras que pueden realizarse en sus producciones. Esta técnica, que utilizo habitualmente en mis clases, ayuda al alumnado a mejorar sus tareas durante el desarrollo de sus producciones. Se trata asimismo de un momento en el que el docente puede obtener datos sobre la evolución de la tarea en los diferentes grupos y que facilita al grupo posibles mejoras que puede incorporar o los puntos fuertes de su trabajo.</li>\n<li style=\"text-align: justify;\">La evaluación del producto de la tarea 5, se llevará a cabo utilizando la siguiente rúbrica, que el alumnado conocerá antes de comenzar a realizar su tarea y que les indicará los ítems que serán evaluados en la tarea.</li>\n</ul>\n<p><img src=\"{{context_path}}/content/resources/Rúbrica tarea 5.jpg\" width=\"854\" height=\"817\" alt=\"\" /></p>\n<h2>Evaluación tarea 6</h2>\n<p style=\"text-align: justify;\">La evaluación de la tarea 6, se llevará a cabo de forma similar a la expuesta en la tarea 5:</p>\n<ul>\n<li style=\"text-align: justify;\">Coevaluación y evaluación oral (feedback de compañeros/as y docente) durante su desarrollo.</li>\n<li style=\"text-align: justify;\">Rúbrica para evaluar el producto (instrumento que el alumnado conocerá al inicio de la tarea).</li>\n</ul>\n<p><img src=\"{{context_path}}/content/resources/rúbrica tarea 6.jpg\" width=\"1142\" height=\"566\" alt=\"\" /></p>\n</div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mord7dq4-2uv0hovag</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>DUA</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>DUA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>DUA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mord7dq4-2uv0hovag</odePageId>
+      <odeBlockId>block-1777825559518-g6ta71x8g</odeBlockId>
+      <blockName>Diseño Universal de Aprendizaje (DUA)</blockName>
+      <iconName>piece</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mord7dq4-2uv0hovag</odePageId>
+          <odeBlockId>block-1777825559518-g6ta71x8g</odeBlockId>
+          <odeIdeviceId>idevice-1777825559517-0ukl4vhb5</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Para eliminar las barreras en el aprendizaje, en esta situación de aprendizaje ha tratado de seguir los principios fundamentales del DUA: motivando al alumnado, ofreciendo la información en diferentes formatos y admitiendo diferentes maneras de demostrar lo aprendido. Si bien las diferentes tareas propuestas tratan de ser motivadoras, presentan la información en diferentes formatos y en la evaluación se prioriza el proceso sobre el producto final, a continuación se detallan otras medidas que pueden implementarse:</p>
+<div class="exe-fx exe-accordion">
+<h2><strong>Formas de implicación (motivación)</strong></h2>
+<ul>
+<li>Ofrecer elección de temas (aventura, misterio, fantasía, vida cotidiana).</li>
+<li>Trabajo cooperativo en grupos que puedan prestar ayuda.</li>
+<li>Temas cercanos a sus intereses (cuentos conocidos).</li>
+<li>Establecer metas claras y alcanzables.</li>
+</ul>
+<h2><strong>Formas de representación (comprensión)</strong></h2>
+<ul>
+<li>Explicar el proyecto usando vídeos cortos, ejemplos visuales empleando una herramienta digital, ...<br /></li>
+<li>Proporcionar plantillas estructuradas en Canva (diapositivas con espacios ya definidos para texto e imagen).</li>
+<li>Usar pictogramas o apoyos visuales para alumnado con dificultades lectoras.</li>
+<li>En lectoescritura, ofrecer bancos de palabras y frases modelo.</li>
+<li>Proporcionar organizadores gráficos: quién (personajes), donde (escenario), qué pasa (problema y solución).</li>
+</ul>
+<h2><strong>Formas de acción y expresión (producción)</strong><br /></h2>
+<ul>
+<li>Reducir la carga escrita, si fuese necesario.</li>
+<li>Incluir ejemplos dentro de la plantilla de Canva.</li>
+<li>En la evaluación, simplificar rúbricas, así como valorar más el proceso que el resultado final.</li>
+</ul>
+</div>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777825559517-0ukl4vhb5","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Para eliminar las barreras en el aprendizaje, en esta situación de aprendizaje ha tratado de seguir los principios fundamentales del DUA: motivando al alumnado, ofreciendo la información en diferentes formatos y admitiendo diferentes maneras de demostrar lo aprendido. Si bien las diferentes tareas propuestas tratan de ser motivadoras, presentan la información en diferentes formatos y en la evaluación se prioriza el proceso sobre el producto final, a continuación se detallan otras medidas que pueden implementarse:</p>\n<div class=\"exe-fx exe-accordion\">\n<h2><strong>Formas de implicación (motivación)</strong></h2>\n<ul>\n<li>Ofrecer elección de temas (aventura, misterio, fantasía, vida cotidiana).</li>\n<li>Trabajo cooperativo en grupos que puedan prestar ayuda.</li>\n<li>Temas cercanos a sus intereses (cuentos conocidos).</li>\n<li>Establecer metas claras y alcanzables.</li>\n</ul>\n<h2><strong>Formas de representación (comprensión)</strong></h2>\n<ul>\n<li>Explicar el proyecto usando vídeos cortos, ejemplos visuales empleando una herramienta digital, ...<br /></li>\n<li>Proporcionar plantillas estructuradas en Canva (diapositivas con espacios ya definidos para texto e imagen).</li>\n<li>Usar pictogramas o apoyos visuales para alumnado con dificultades lectoras.</li>\n<li>En lectoescritura, ofrecer bancos de palabras y frases modelo.</li>\n<li>Proporcionar organizadores gráficos: quién (personajes), donde (escenario), qué pasa (problema y solución).</li>\n</ul>\n<h2><strong>Formas de acción y expresión (producción)</strong><br /></h2>\n<ul>\n<li>Reducir la carga escrita, si fuese necesario.</li>\n<li>Incluir ejemplos dentro de la plantilla de Canva.</li>\n<li>En la evaluación, simplificar rúbricas, así como valorar más el proceso que el resultado final.</li>\n</ul>\n</div>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mord7dq5-tv1ccph0w</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Guía didáctica</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Guía didáctica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Guía didáctica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mord7dq5-tv1ccph0w</odePageId>
+      <odeBlockId>block-1777813088285-szkrb61ss</odeBlockId>
+      <blockName>Guía didáctica: concreción curricular</blockName>
+      <iconName>diary_alt</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mord7dq5-tv1ccph0w</odePageId>
+          <odeBlockId>block-1777813088285-szkrb61ss</odeBlockId>
+          <odeIdeviceId>idevice-1777813088281-2r824byte</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="exe-fx exe-tabs">
+<h2><strong>Competencias específicas</strong></h2>
+<p style="text-align: justify;"><strong>LENGUA CASTELLANA Y LITERATURA</strong><br /></p>
+<p style="text-align: justify;"><strong>5.</strong> Producir textos escritos y multimodales, con corrección gramatical y ortográfica básicas, secuenciando correctamente los contenidos y aplicando estrategias elementales de planificación, textualización, revisión y edición, para construir conocimiento y para dar respuesta a demandas comunicativas concretas.</p>
+<p style="text-align: justify;"><strong>8.</strong> Leer, interpretar y analizar, de manera acompañada, obras o fragmentos literarios adecuados a su desarrollo, estableciendo relaciones entre ellos e identificando el género literario y sus convenciones fundamentales, para iniciarse en el reconocimiento de la literatura como manifestación artística y fuente de placer, conocimiento e inspiración para crear textos de intención literaria.</p>
+<p><strong>EDUCACIÓN EN VALORES CÍVICOS Y ÉTICOS</strong></p>
+<p style="text-align: justify;"><strong>1.</strong> Deliberar y argumentar sobre problemas de carácter ético referidos a sí mismo y su entorno, buscando y analizando información fiable y generando una actitud reflexiva al respecto, para promover el autoconocimiento y la autonomía moral.</p>
+<p style="text-align: justify;"><strong>2. </strong>Actuar e interactuar de acuerdo con las normas y valores cívicos y éticos, reconociendo su importancia para la vida individual y colectiva, y aplicándolos de manera efectiva y argumentada en distintos contextos, para promover una convivencia democrática, justa, inclusiva, respetuosa y pacífica.</p>
+<p style="text-align: justify;"><strong>EDUCACIÓN ARTÍSTICA</strong></p>
+<p style="text-align: justify;"><strong>4.</strong> Participar del diseño, la elaboración y la difusión de producciones culturales y artísticas individuales o colectivas, poniendo en valor el proceso y asumiendo diferentes funciones en la consecución de un resultado final, para desarrollar la creatividad, la noción de autoría y el sentido de pertenencia.</p>
+<h2><strong><span style="font-size: 14pt;">Criterios de evaluación</span></strong></h2>
+<p><strong>LENGUA CASTELLANA Y LITERATURA</strong></p>
+<p style="text-align: justify;"><strong>5.1.B.</strong> Producir textos escritos y multimodales de relativa complejidad con coherencia y adecuación, en distintos soportes, progresando en el uso de las normas gramaticales y ortográficas básicas al servicio de la cohesión textual y movilizando estrategias sencillas, individuales o grupales, de planificación, textualización, revisión y edición.</p>
+<p style="text-align: justify;"><strong>8.1.B. </strong>Escuchar y leer de manera acompañada textos literarios adecuados a su edad, que recojan diversidad de autores y autoras, relacionándolos en función de los temas y de aspectos elementales de cada género literario, e interpretándolos, valorándolos y relacionándolos con otras manifestaciones artísticas o culturales de manera progresivamente autónoma.</p>
+<p style="text-align: justify;"><strong>EDUCACIÓN EN VALORES CÍVICOS Y ÉTICOS</strong><br /></p>
+<p style="text-align: justify;"><strong>1.1. </strong>Construir un adecuado concepto de sí mismo o sí misma en relación con los demás y la naturaleza, organizando y generando, de forma segura y crítica, información analógica y digital acerca de los rasgos relativos a la identidad, diferencia y dignidad de las personas.</p>
+<p style="text-align: justify;"><strong>2.3. </strong>Reflexionar y asumir un compromiso activo y crítico con valores relativos a la solidaridad y el respeto a las minorías y las identidades etnoculturales y de género, analizando desde un punto de vista ético cuestiones relacionadas con la desigualdad y la pobreza, el hecho multicultural, la diversidad humana y los fenómenos migratorios.</p>
+<p style="text-align: justify;"><strong>EDUCACIÓN ARTÍSTICA</strong><br /></p>
+<p style="text-align: justify;"><strong>4.1.B.</strong> Planificar y diseñar producciones culturales y artísticas colectivas, trabajando de forma cooperativa en la consecución de un resultado final y asumiendo diferentes funciones, desde la igualdad y el respeto a la diversidad.</p>
+<h2><strong>Saberes básicos</strong></h2>
+<p><strong>LENGUA CASTELLANA Y LITERATURA</strong></p>
+<p><strong>LCL3.C.1.</strong> Lectura progresivamente autónoma de obras o fragmentos variados y diversos de la literatura y de la literatura popular andaluza, adecuados a su edad y organizados en itinerarios lectores.</p>
+<p><strong>LCL3.C.4.</strong> Análisis acompañado de la relación entre los elementos básicos del género literario y la construcción del sentido de la obra.</p>
+<p><strong>LCL3.C.5.</strong> Estrategias básicas para la interpretación progresivamente autónoma de los textos literarios. El lenguaje figurado (símiles y metáforas), las personificaciones, las hipérboles y los juegos de palabras. Refranes, aforismos y greguerías para profundizar en el sentido y posibilidades del lenguaje. El uso de comparaciones, metáforas, aumentativos, diminutivos y sinónimos en textos literarios.</p>
+<p><strong>LCL3.B.3.5. </strong>Producción escrita: convenciones del código escrito y ortografía reglada básica. Coherencia y cohesión textual. Estrategias básicas individuales y grupales, de planificación, textualización, revisión y autocorrección. Uso de elementos gráficos y paratextuales básicos al servicio de la comprensión. Escritura en soporte digital acompañada.</p>
+<p><strong>LCL3.B.3.6. </strong>Alfabetización mediática e informacional: estrategias básicas para la búsqueda guiada de información en fuentes documentales variadas y con distintos soportes y formatos. Reconocimiento de autoría. Comparación vivencias y emociones propias y ajenas.</p>
+<p><strong>LCL3.D.5.</strong> Mecanismos básicos de coherencia y cohesión, con especial atención a las sustituciones pronominales y a la correlación temporal establecida mediante los distintos tiempos verbales. Conjugación de los verbos. La voz pasiva.</p>
+<p><strong>EDUCACIÓN EN VALORES CÍVICOS Y ÉTICOS</strong></p>
+<p><strong>VCE3.A.1. </strong>El pensamiento crítico y ético.</p>
+<p><strong>VC3.3.A.2. </strong>La naturaleza humana y la identidad personal. Igualdad y diferencia entre las personas. La libertad y el determinismo.</p>
+<p><strong>VCE3.B.1.</strong> Las virtudes del diálogo y las normas de argumentación. La toma democrática de decisiones. El trabajo cooperativo y solidario en grupo.</p>
+<p><strong>VCE.3.B.2. </strong>Fundamentos de la vida en sociedad. La empatía con los demás. Los afectos. La familia. La amistad y el amor. El cuidado a las personas mayores.</p>
+<p><strong>VCE.3.B.3. </strong>Las reglas de convivencia. Moralidad, legalidad y conducta cívica. El papel de las fuerzas y agentes de seguridad.</p>
+<p><strong>EDUCACIÓN ARTÍSTICA</strong><br /></p>
+<p><strong>EAR3.A.6. </strong>Estrategias básicas de análisis de propuestas artísticas desde una perspectiva de género.</p>
+<p><strong>EAR3.B.1. </strong>Fases del proceso creativo: planificación, interpretación, experimentación y evaluación.</p>
+<p><strong>EAR3.B.2.</strong> Profesiones vinculadas con las artes plásticas y visuales, las artes audiovisuales, la música y las artes escénicas y performativas.</p>
+<p><strong>EAR3.B.3.</strong> Evaluación, interés y valoración tanto por el proceso como por el producto final en producciones plásticas, visuales, audiovisuales, musicales, escénicas y performativas.</p>
+<p><strong>EAR3.B.4. </strong>Uso responsable de bancos de imágenes y sonidos: respeto a las licencias de uso y distribución de contenidos generados por otros. Plagio y derechos de autor.</p>
+<p><strong>EAR3.C.6.</strong> Registro y edición de elementos audiovisuales: conceptos, tecnologías, técnicas y recursos elementales y de manejo sencillo.</p>
+<p><strong>EAR3.C.10.</strong> Producciones multimodales: realización con diversas herramientas. </p>
+</div>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777813088281-2r824byte","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div class=\"exe-fx exe-tabs\">\n<h2><strong>Competencias específicas</strong></h2>\n<p style=\"text-align: justify;\"><strong>LENGUA CASTELLANA Y LITERATURA</strong><br /></p>\n<p style=\"text-align: justify;\"><strong>5.</strong> Producir textos escritos y multimodales, con corrección gramatical y ortográfica básicas, secuenciando correctamente los contenidos y aplicando estrategias elementales de planificación, textualización, revisión y edición, para construir conocimiento y para dar respuesta a demandas comunicativas concretas.</p>\n<p style=\"text-align: justify;\"><strong>8.</strong> Leer, interpretar y analizar, de manera acompañada, obras o fragmentos literarios adecuados a su desarrollo, estableciendo relaciones entre ellos e identificando el género literario y sus convenciones fundamentales, para iniciarse en el reconocimiento de la literatura como manifestación artística y fuente de placer, conocimiento e inspiración para crear textos de intención literaria.</p>\n<p><strong>EDUCACIÓN EN VALORES CÍVICOS Y ÉTICOS</strong></p>\n<p style=\"text-align: justify;\"><strong>1.</strong> Deliberar y argumentar sobre problemas de carácter ético referidos a sí mismo y su entorno, buscando y analizando información fiable y generando una actitud reflexiva al respecto, para promover el autoconocimiento y la autonomía moral.</p>\n<p style=\"text-align: justify;\"><strong>2. </strong>Actuar e interactuar de acuerdo con las normas y valores cívicos y éticos, reconociendo su importancia para la vida individual y colectiva, y aplicándolos de manera efectiva y argumentada en distintos contextos, para promover una convivencia democrática, justa, inclusiva, respetuosa y pacífica.</p>\n<p style=\"text-align: justify;\"><strong>EDUCACIÓN ARTÍSTICA</strong></p>\n<p style=\"text-align: justify;\"><strong>4.</strong> Participar del diseño, la elaboración y la difusión de producciones culturales y artísticas individuales o colectivas, poniendo en valor el proceso y asumiendo diferentes funciones en la consecución de un resultado final, para desarrollar la creatividad, la noción de autoría y el sentido de pertenencia.</p>\n<h2><strong><span style=\"font-size: 14pt;\">Criterios de evaluación</span></strong></h2>\n<p><strong>LENGUA CASTELLANA Y LITERATURA</strong></p>\n<p style=\"text-align: justify;\"><strong>5.1.B.</strong> Producir textos escritos y multimodales de relativa complejidad con coherencia y adecuación, en distintos soportes, progresando en el uso de las normas gramaticales y ortográficas básicas al servicio de la cohesión textual y movilizando estrategias sencillas, individuales o grupales, de planificación, textualización, revisión y edición.</p>\n<p style=\"text-align: justify;\"><strong>8.1.B. </strong>Escuchar y leer de manera acompañada textos literarios adecuados a su edad, que recojan diversidad de autores y autoras, relacionándolos en función de los temas y de aspectos elementales de cada género literario, e interpretándolos, valorándolos y relacionándolos con otras manifestaciones artísticas o culturales de manera progresivamente autónoma.</p>\n<p style=\"text-align: justify;\"><strong>EDUCACIÓN EN VALORES CÍVICOS Y ÉTICOS</strong><br /></p>\n<p style=\"text-align: justify;\"><strong>1.1. </strong>Construir un adecuado concepto de sí mismo o sí misma en relación con los demás y la naturaleza, organizando y generando, de forma segura y crítica, información analógica y digital acerca de los rasgos relativos a la identidad, diferencia y dignidad de las personas.</p>\n<p style=\"text-align: justify;\"><strong>2.3. </strong>Reflexionar y asumir un compromiso activo y crítico con valores relativos a la solidaridad y el respeto a las minorías y las identidades etnoculturales y de género, analizando desde un punto de vista ético cuestiones relacionadas con la desigualdad y la pobreza, el hecho multicultural, la diversidad humana y los fenómenos migratorios.</p>\n<p style=\"text-align: justify;\"><strong>EDUCACIÓN ARTÍSTICA</strong><br /></p>\n<p style=\"text-align: justify;\"><strong>4.1.B.</strong> Planificar y diseñar producciones culturales y artísticas colectivas, trabajando de forma cooperativa en la consecución de un resultado final y asumiendo diferentes funciones, desde la igualdad y el respeto a la diversidad.</p>\n<h2><strong>Saberes básicos</strong></h2>\n<p><strong>LENGUA CASTELLANA Y LITERATURA</strong></p>\n<p><strong>LCL3.C.1.</strong> Lectura progresivamente autónoma de obras o fragmentos variados y diversos de la literatura y de la literatura popular andaluza, adecuados a su edad y organizados en itinerarios lectores.</p>\n<p><strong>LCL3.C.4.</strong> Análisis acompañado de la relación entre los elementos básicos del género literario y la construcción del sentido de la obra.</p>\n<p><strong>LCL3.C.5.</strong> Estrategias básicas para la interpretación progresivamente autónoma de los textos literarios. El lenguaje figurado (símiles y metáforas), las personificaciones, las hipérboles y los juegos de palabras. Refranes, aforismos y greguerías para profundizar en el sentido y posibilidades del lenguaje. El uso de comparaciones, metáforas, aumentativos, diminutivos y sinónimos en textos literarios.</p>\n<p><strong>LCL3.B.3.5. </strong>Producción escrita: convenciones del código escrito y ortografía reglada básica. Coherencia y cohesión textual. Estrategias básicas individuales y grupales, de planificación, textualización, revisión y autocorrección. Uso de elementos gráficos y paratextuales básicos al servicio de la comprensión. Escritura en soporte digital acompañada.</p>\n<p><strong>LCL3.B.3.6. </strong>Alfabetización mediática e informacional: estrategias básicas para la búsqueda guiada de información en fuentes documentales variadas y con distintos soportes y formatos. Reconocimiento de autoría. Comparación vivencias y emociones propias y ajenas.</p>\n<p><strong>LCL3.D.5.</strong> Mecanismos básicos de coherencia y cohesión, con especial atención a las sustituciones pronominales y a la correlación temporal establecida mediante los distintos tiempos verbales. Conjugación de los verbos. La voz pasiva.</p>\n<p><strong>EDUCACIÓN EN VALORES CÍVICOS Y ÉTICOS</strong></p>\n<p><strong>VCE3.A.1. </strong>El pensamiento crítico y ético.</p>\n<p><strong>VC3.3.A.2. </strong>La naturaleza humana y la identidad personal. Igualdad y diferencia entre las personas. La libertad y el determinismo.</p>\n<p><strong>VCE3.B.1.</strong> Las virtudes del diálogo y las normas de argumentación. La toma democrática de decisiones. El trabajo cooperativo y solidario en grupo.</p>\n<p><strong>VCE.3.B.2. </strong>Fundamentos de la vida en sociedad. La empatía con los demás. Los afectos. La familia. La amistad y el amor. El cuidado a las personas mayores.</p>\n<p><strong>VCE.3.B.3. </strong>Las reglas de convivencia. Moralidad, legalidad y conducta cívica. El papel de las fuerzas y agentes de seguridad.</p>\n<p><strong>EDUCACIÓN ARTÍSTICA</strong><br /></p>\n<p><strong>EAR3.A.6. </strong>Estrategias básicas de análisis de propuestas artísticas desde una perspectiva de género.</p>\n<p><strong>EAR3.B.1. </strong>Fases del proceso creativo: planificación, interpretación, experimentación y evaluación.</p>\n<p><strong>EAR3.B.2.</strong> Profesiones vinculadas con las artes plásticas y visuales, las artes audiovisuales, la música y las artes escénicas y performativas.</p>\n<p><strong>EAR3.B.3.</strong> Evaluación, interés y valoración tanto por el proceso como por el producto final en producciones plásticas, visuales, audiovisuales, musicales, escénicas y performativas.</p>\n<p><strong>EAR3.B.4. </strong>Uso responsable de bancos de imágenes y sonidos: respeto a las licencias de uso y distribución de contenidos generados por otros. Plagio y derechos de autor.</p>\n<p><strong>EAR3.C.6.</strong> Registro y edición de elementos audiovisuales: conceptos, tecnologías, técnicas y recursos elementales y de manejo sencillo.</p>\n<p><strong>EAR3.C.10.</strong> Producciones multimodales: realización con diversas herramientas. </p>\n</div>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mord7dq5-r2bl6zq1v</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Créditos</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Créditos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Créditos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mord7dq5-r2bl6zq1v</odePageId>
+      <odeBlockId>block-1777823468501-kgedaiffy</odeBlockId>
+      <blockName>Créditos y autoría</blockName>
+      <iconName>info</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mord7dq5-r2bl6zq1v</odePageId>
+          <odeBlockId>block-1777823468501-kgedaiffy</odeBlockId>
+          <odeIdeviceId>idevice-1777823468499-59oriu4kk</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: center;"><span style="font-size: 14pt;"><strong>Información sobre este recurso educativo</strong></span></p>
+<table border="1" style="width: 99.9455%; background-color: #ecf0f1; border-color: #000000; border-style: double; float: left;">
+<tbody>
+<tr>
+<td style="width: 20.9811%; text-align: left; vertical-align: middle;"><strong>Título</strong><br /></td>
+<td style="width: 78.9643%; text-align: left; vertical-align: middle;"><strong>Actualizamos cuentos tradicionales</strong></td>
+</tr>
+<tr>
+<td style="width: 20.9811%; text-align: left; vertical-align: middle;"><strong>Descripción</strong></td>
+<td style="width: 78.9643%; vertical-align: middle; text-align: justify;">Situación de aprendizaje diseñada para <strong>tercer ciclo de Educación Primaria</strong> para el área de Lengua castellana y Literatura, con vinculación a las áreas de Educación en Valores Cívicos y Éticos y Educación<strong> </strong>Artística.</td>
+</tr>
+<tr>
+<td style="width: 20.9811%; text-align: left; vertical-align: middle;"><strong>Autora</strong></td>
+<td style="width: 78.9643%; text-align: left; vertical-align: middle;">Inmaculada Garrido Tébar</td>
+</tr>
+<tr>
+<td style="width: 20.9811%; text-align: left; vertical-align: middle;"><strong>Licencia</strong></td>
+<td style="width: 78.9643%; text-align: left; vertical-align: middle;" title="Licencia">Esta obra está bajo <a href="https://creativecommons.org/licenses/by-sa/4.0/" title="Licencia" target="_blank" rel="noopener">la licencia CC BY-SA 4.0</a>. </td>
+</tr>
+</tbody>
+</table>
+<p><br /></p>
+<p><br /></p>
+<p><br /></p>
+<p><br /></p>
+<p><br /></p>
+<p><br /></p>
+<p>Este contenido fue creado con la herramienta <a href="https://exelearning.net/" target="_blank" title="" rel="noopener">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p>
+<p> </p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777823468499-59oriu4kk","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: center;\"><span style=\"font-size: 14pt;\"><strong>Información sobre este recurso educativo</strong></span></p>\n<table border=\"1\" style=\"width: 99.9455%; background-color: #ecf0f1; border-color: #000000; border-style: double; float: left;\">\n<tbody>\n<tr>\n<td style=\"width: 20.9811%; text-align: left; vertical-align: middle;\"><strong>Título</strong><br /></td>\n<td style=\"width: 78.9643%; text-align: left; vertical-align: middle;\"><strong>Actualizamos cuentos tradicionales</strong></td>\n</tr>\n<tr>\n<td style=\"width: 20.9811%; text-align: left; vertical-align: middle;\"><strong>Descripción</strong></td>\n<td style=\"width: 78.9643%; vertical-align: middle; text-align: justify;\">Situación de aprendizaje diseñada para <strong>tercer ciclo de Educación Primaria</strong> para el área de Lengua castellana y Literatura, con vinculación a las áreas de Educación en Valores Cívicos y Éticos y Educación<strong> </strong>Artística.</td>\n</tr>\n<tr>\n<td style=\"width: 20.9811%; text-align: left; vertical-align: middle;\"><strong>Autora</strong></td>\n<td style=\"width: 78.9643%; text-align: left; vertical-align: middle;\">Inmaculada Garrido Tébar</td>\n</tr>\n<tr>\n<td style=\"width: 20.9811%; text-align: left; vertical-align: middle;\"><strong>Licencia</strong></td>\n<td style=\"width: 78.9643%; text-align: left; vertical-align: middle;\" title=\"Licencia\">Esta obra está bajo <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\" title=\"Licencia\" target=\"_blank\" rel=\"noopener\">la licencia CC BY-SA 4.0</a>. </td>\n</tr>\n</tbody>\n</table>\n<p><br /></p>\n<p><br /></p>\n<p><br /></p>\n<p><br /></p>\n<p><br /></p>\n<p><br /></p>\n<p>Este contenido fue creado con la herramienta <a href=\"https://exelearning.net/\" target=\"_blank\" title=\"\" rel=\"noopener\">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p>\n<p> </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
